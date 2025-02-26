@@ -18,5 +18,3 @@ Ghostly AI optimizes USDT/USDC farming on Sonic Chain, targeting 10%+ APY with 9
 3. Update `ghostly_ai.py` with Sonic RPC and contract details.
 4. Run: `python src/ghostly_ai.py`
 
-## Grant Purpose
-Fund AI-driven stablecoin farming on Sonic, enhancing DeFi yield efficiency.
