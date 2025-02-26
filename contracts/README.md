@@ -19,3 +19,9 @@ Ghostly AI optimizes USDT/USDC farming on Sonic Chain, targeting 10%+ APY with 9
 2. Install Python deps: `pip install -r src/requirements.txt`
 3. Update `ghostly_ai.py` with Sonic RPC and contract details.
 4. Run: `python src/ghostly_ai.py`
+
+# Contracts
+
+- `GhostlyAIFarm.sol`: Main contract for depositing USDT/USDC and farming to SwapX/Silo.
+- Deploy on Sonic Chain using Hardhat or Foundry.
+- Dependencies: OpenZeppelin ERC20 and Ownable.
